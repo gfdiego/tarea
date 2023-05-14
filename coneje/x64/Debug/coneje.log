@@ -1,0 +1,8 @@
+﻿  Proveedores.cpp
+C:\Users\CESAR\Desktop\c++\mysqlc++\coneje\coneje\Proveedores.h(83,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\mysqlc++\coneje\coneje\Proveedores.h(82,13): warning C4101: 'fila': variable local sin referencia
+  coneje.cpp
+C:\Users\CESAR\Desktop\c++\mysqlc++\coneje\coneje\Proveedores.h(83,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\mysqlc++\coneje\coneje\Proveedores.h(82,13): warning C4101: 'fila': variable local sin referencia
+  Generando código...
+  coneje.vcxproj -> C:\Users\CESAR\Desktop\c++\mysqlc++\coneje\x64\Debug\coneje.exe
